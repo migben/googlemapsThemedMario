@@ -10,4 +10,17 @@ html {
 body {
     margin: 0;
     padding: 0;
+    background: #000;
+    color: #fff;
+}
+
+h1 {
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    font-size: 2rem;
+    padding: 0 3rem;
+}
+
+#map {
+    height: 60vh;
 }
