@@ -28,7 +28,7 @@ function initMap() {
             title: currMarker[0],
             icon: {
                 url: currMarker[3],
-                scaleSize: new google.maps.Size(currMarker[4], currMarker[5])
+                scaledSize: new google.maps.Size(currMarker[4], currMarker[5])
             },
             animation: google.maps.Animation.DROP
           });
