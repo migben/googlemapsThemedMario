@@ -24,3 +24,9 @@ h1 {
 #map {
     height: 60vh;
 }
+
+.gm-style-iw-d {
+    color: #000;
+    /* font-weight: bold; */
+    font-family: 'Press Start 2P', cursive;
+}
